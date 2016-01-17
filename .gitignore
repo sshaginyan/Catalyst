@@ -1,0 +1,5 @@
+.DS_Store
+.gulp-cache
+.idea/*
+dist/*
+node_modules/*
